@@ -1,80 +1,71 @@
 
-# 🧠 DeepLearningLAB
+# 🎓 Deep Learning Lab Assignments – AR Keerthana
 
- **DeepLearningLAB**, a curated collection of hands-on deep learning experiments and practical implementations using Python, TensorFlow, Keras, and PyTorch. This lab serves as a learning playground to explore key concepts in deep learning through real-world datasets, model training, and evaluations.
+This repository contains the official lab assignments completed as part of the **Deep Learning Laboratory** course during my academic curriculum.
 
----
-
-## 📚 Lab Objectives
-
-- Understand and implement fundamental deep learning algorithms
-- Gain hands-on experience with libraries like TensorFlow, Keras, and PyTorch
-- Perform tasks like image classification, regression, and ANN/CNN modeling
-- Learn how to preprocess data, build and evaluate models, and fine-tune parameters
+Each experiment demonstrates the practical implementation of core deep learning concepts such as artificial neural networks (ANN), convolutional neural networks (CNN), transfer learning, and regression using modern frameworks like **TensorFlow** and **Keras**.
 
 ---
 
-## 🧪 Experiments Included
-
-| S.No | Experiment Title                                | Technologies Used      | Description |
-|------|--------------------------------------------------|------------------------|-------------|
-| 1    | Artificial Neural Network on MNIST              | Keras, TensorFlow      | Handwritten digit classification |
-| 2    | CNN for Image Classification                    | TensorFlow, OpenCV     | Classifying images using Convolutional Neural Networks |
-| 3    | Regression using Deep Learning                  | Keras, NumPy           | Simple and multiple regression with neural networks |
-| 4    | Transfer Learning with Pretrained Models        | Keras, MobileNetV2     | Fine-tuning existing models for new classification tasks |
-| 5    | Object Detection (Optional)                     | YOLO / OpenCV          | Detecting and classifying objects in images (if applicable) |
-
-> 📌 _Experiments will be updated and expanded as the course progresses._
 
 ---
 
-## 🔧 Technologies Used
+## 🧪 Lab Experiments
+
+| Exp. No | Title                                       | Tools Used           | Summary |
+|---------|---------------------------------------------|----------------------|---------|
+| 1       | Handwritten Digit Recognition using ANN     | TensorFlow, Keras    | Classification of digits from MNIST dataset |
+| 2       | Image Classification using CNN              | Keras, OpenCV        | Building a basic CNN to classify images |
+| 3       | Regression using Neural Networks            | Keras                | Predicting continuous values using DL models |
+| 4       | Transfer Learning with Pretrained Models    | Keras, MobileNetV2   | Fine-tuning MobileNet for a custom dataset |
+
+> 📌 Additional experiments will be added as the lab progresses.
+
+---
+
+## 🛠 Technologies Used
 
 - Python
 - Jupyter Notebook / Google Colab
 - TensorFlow
 - Keras
-- PyTorch (optional)
 - NumPy, Pandas, Matplotlib
-- OpenCV (for image processing tasks)
+- OpenCV (for image processing)
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run the Experiments
 
-1. **Clone the Repository**
+1. **Clone this repository**
    ```bash
    git clone https://github.com/keerthana777z/DeepLearningLAB.git
    cd DeepLearningLAB
 ````
 
-2. **Install Required Packages**
+2. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Launch Jupyter Notebook**
+3. **Open any notebook**
 
-   ```bash
-   jupyter notebook
-   ```
-
-   Or open the `.ipynb` files directly in [Google Colab](https://colab.research.google.com/).
+   * Using Jupyter: `jupyter notebook`
+   * Or open directly in [Google Colab](https://colab.research.google.com/)
 
 ---
 
-## 📁 Folder Structure
+## 📂 Repository Structure
 
 ```
 DeepLearningLAB/
-├── Experiment-1-ANN/
+├── Exp-01-ANN/
 │   └── ann_mnist.ipynb
-├── Experiment-2-CNN/
+├── Exp-02-CNN/
 │   └── cnn_classification.ipynb
-├── Experiment-3-Regression/
+├── Exp-03-Regression/
 │   └── regression_model.ipynb
-├── Experiment-4-TransferLearning/
+├── Exp-04-TransferLearning/
 │   └── mobilenetv2_classifier.ipynb
 ├── README.md
 └── requirements.txt
@@ -82,35 +73,24 @@ DeepLearningLAB/
 
 ---
 
-## 🎯 Learning Outcomes
+## 📈 Learning Outcomes
 
-* Built foundational and advanced neural networks from scratch
-* Learned to optimize model architecture and evaluate performance
-* Understood hyperparameter tuning and transfer learning
-* Visualized model predictions and feature maps
-
----
-
-## 📌 Future Additions
-
-* RNN and LSTM for sequential data
-* GANs (Generative Adversarial Networks)
-* Deployment of deep learning models (Flask/Streamlit)
-* Model explainability (SHAP, Grad-CAM)
+* Understood architecture and training of neural networks
+* Gained practical knowledge in tuning models and evaluating performance
+* Applied CNNs for computer vision tasks
+* Explored transfer learning for real-world datasets
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Submitted by
 
-**AR Keerthana**
-🔗 [GitHub Profile](https://github.com/keerthana777z)
+**Name:** AR Keerthana
+**GitHub:** [@keerthana777z](https://github.com/keerthana777z)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This repository is open-sourced under the **MIT License**.
 
----
 
-````
