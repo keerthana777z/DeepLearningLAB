@@ -1,7 +1,7 @@
 
 # 🧠 DeepLearningLAB
 
-Welcome to **DeepLearningLAB**, a curated collection of hands-on deep learning experiments and practical implementations using Python, TensorFlow, Keras, and PyTorch. This lab serves as a learning playground to explore key concepts in deep learning through real-world datasets, model training, and evaluations.
+ **DeepLearningLAB**, a curated collection of hands-on deep learning experiments and practical implementations using Python, TensorFlow, Keras, and PyTorch. This lab serves as a learning playground to explore key concepts in deep learning through real-world datasets, model training, and evaluations.
 
 ---
 
