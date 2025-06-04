@@ -40,7 +40,7 @@ Each experiment demonstrates the practical implementation of core deep learning 
    ```bash
    git clone https://github.com/keerthana777z/DeepLearningLAB.git
    cd DeepLearningLAB
-````
+
 
 2. **Install dependencies**
 
